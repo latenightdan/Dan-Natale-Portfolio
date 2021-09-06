@@ -135,7 +135,7 @@ body{
     }
       
       .sidebar{
-        border-left: 5px solid #024e76;
+        border-left: 5px solid black;
         background-repeat: no-repeat;
   background-position: center;
   background-size:cover;
