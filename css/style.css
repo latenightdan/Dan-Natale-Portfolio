@@ -82,7 +82,7 @@ body{
   }
   .tab3
   {
-    background: var(--tab3);
+    background: var(--tab5);
       margin:0%;
   }
   .tab4
@@ -92,7 +92,7 @@ body{
   }
   .tab5
   {
-    background: var(--tab5);
+    background: var(--tab3);
       margin:0%;
   }
   
@@ -193,8 +193,8 @@ body{
 
     }
     p{
-        color: floralwhite;
-        background-color: black;
+        color: black;
+        background-color: floralwhite;
         border-radius: 25px;
         font-family: Arial, Helvetica, sans-serif;
         border: 4px;
