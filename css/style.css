@@ -4,7 +4,7 @@
     --tab2: #f76c6c;
     --tab3: #A8D0E6;
     --tab4: gold;
-    --tab5: #564998;
+    --tab5: black;
   }
 
 body{
@@ -25,22 +25,23 @@ body{
   }
  
   header{
-    background: var(--tab1);
-    color: white;
-      padding-top: 2%;
-      padding-bottom: 1% solid #000;;
+    /* background: var(--tab1); */
+    color: black;
+      padding-top: 6%;
+      padding-bottom: 1% solid #000;
       margin-bottom: 5%;
-      border-bottom: solid #000;
+      /* border-bottom: solid #000; */
       /* font-size: 200%;
       margin-top: 5%;
       margin-bottom: 1%;
       margin: 3%; */
   }
+  
   .main-content h2{
     margin: 0%;
     font: menu;
     font-weight: bold;
-    font-size: large;
+    font-size: x-large;
     /* background-color: darkviolet; */
     
 }
@@ -82,7 +83,7 @@ body{
   }
   .tab3
   {
-    background: var(--tab5);
+    background: var(--tab3);
       margin:0%;
   }
   .tab4
@@ -92,7 +93,7 @@ body{
   }
   .tab5
   {
-    background: var(--tab3);
+    background: var(--tab5);
       margin:0%;
   }
   
@@ -235,6 +236,18 @@ body{
   }
   .sidebar{
       background-color: black;
+  }
+  header{
+    background: var(--tab1);
+    color:blanchedalmond;
+      padding-top: 6%;
+      padding-bottom: 1% solid white;
+      margin-bottom: 5%;
+      border-bottom: solid white;
+      /* font-size: 200%;
+      margin-top: 5%;
+      margin-bottom: 1%;
+      margin: 3%; */
   }
   }
 
