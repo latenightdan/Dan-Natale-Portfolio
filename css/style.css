@@ -91,7 +91,7 @@ ul {
   text-decoration: none;
   border: 4px solid #b0215e;
   margin-bottom: 20px;
-  background-image: url('../Assets/hmbp.jpg');
+  background-image: url('/../Assets/hmbp.jpg');
     background-size: cover; 
    background-position: center;
   /* -webkit-background-size: contain; */
@@ -107,13 +107,13 @@ ul {
 .card2 {
   /* height: 200px;
   width: 50%; */
-  background-image: url('../Assets/demoreel.png');
+  background-image: url('/../Assets/demoreel.png');
 }
 .card3 {
-  background-image: url('../Assets/cvpnj.png');
+  background-image: url('/../Assets/cvpnj.png');
 }
 .card4 {
-  background-image: url('../Assets/Screen\ Shot\ 2022-02-16\ at\ 9.35.51\ PM.png');
+  background-image: url('/../Assets/Screen\ Shot\ 2022-02-16\ at\ 9.35.51\ PM.png');
 }
 .card5{
   background-image: url('../Assets/21days.png');
