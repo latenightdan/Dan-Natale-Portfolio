@@ -621,7 +621,7 @@ h4, .techTitle{
     p{
         color: black;
         /* background-color: floralwhite; */
-        border-radius: 25px;
+        
         font-family: Arial, Helvetica, sans-serif;
         border: 4px;
         margin-bottom: 0px;
@@ -686,6 +686,12 @@ h4, .techTitle{
   @media screen and (min-width: 415px) and (max-height:897){
 .header{
   margin-top: 50%;
+  color:white;
+  padding-top: 6%;
+  padding-bottom: 1% solid white;
+  margin-bottom: 5%;
+  border-bottom: solid white;
+  font: menu;
 }
     .main-content{
       
@@ -712,7 +718,7 @@ h4, .techTitle{
 
     }
     .aboutMe{
-font-weight:normal;
+font-weight:bold;
     }
    
     .technologies{
@@ -749,7 +755,7 @@ font-weight:normal;
     p{
         color: black;
         /* background-color: floralwhite; */
-        border-radius: 25px;
+        
         font-family: Arial, Helvetica, sans-serif;
         border: 4px;
         margin-bottom: 0px;
@@ -798,11 +804,12 @@ font-weight:normal;
   }
   header{
     /* background: var(--tab1); */
-    color:blanchedalmond;
+    color:white;
       padding-top: 6%;
       padding-bottom: 1% solid white;
       margin-bottom: 5%;
       border-bottom: solid white;
+      font: menu;
       /* font-size: 200%;
       margin-top: 5%;
       margin-bottom: 1%;
