@@ -551,13 +551,13 @@ h4, .techTitle{
   background-position: center;
   background-size:cover;
         background-image: url("../Assets/2.png");
-       animation: slide 25s infinite;
+       animation: slide 12s infinite;
         
       }
       @keyframes slide{
            0%{background-image: url(../Assets/2.png);}
            33%{background-image: url(../Assets/filming3.png);}
-            67%{background-image: url(../Assets/3.png);}
+            67%{background-image: url(../Assets/desk.png);}
             100%{background-image: url(../Assets/2.png);}
         }
           
