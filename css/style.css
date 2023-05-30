@@ -550,15 +550,16 @@ h4, .techTitle{
         background-repeat: no-repeat;
   background-position: center;
   background-size:cover;
-        background-image: url("../Assets/code-refactoring.jpeg");
-       animation: slide 10s infinite;
+        background-image: url("../Assets/2.png");
+       animation: slide 25s infinite;
         
       }
-      /* @keyframes slide{
-           0%{background-image: url(../Assets/code-refactoring.jpeg);}
-           33%{background-image: url(../Assets/IMG_8859.JPG);}
-            67%{background-image: url(../Assets/istockphoto-489301822-612x612.jpeg);}
-        } */
+      @keyframes slide{
+           0%{background-image: url(../Assets/2.png);}
+           33%{background-image: url(../Assets/filming3.png);}
+            67%{background-image: url(../Assets/3.png);}
+            100%{background-image: url(../Assets/2.png);}
+        }
           
       }
       .sidebar h2{
