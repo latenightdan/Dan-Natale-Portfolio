@@ -556,8 +556,8 @@ h4, .techTitle{
       }
       @keyframes slide{
            0%{background-image: url(../Assets/2.png);}
-           33%{background-image: url(../Assets/filming3.png);}
-            67%{background-image: url(../Assets/desk.png);}
+           33%{background-image: url(../Assets/vp1.png);}
+            67%{background-image: url(../Assets/filming2.png);}
             100%{background-image: url(../Assets/2.png);}
         }
           
